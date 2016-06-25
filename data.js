@@ -4886,5 +4886,13 @@ module.exports = [
     description: "A simple ECMAScript6 module which checks for mobile operating systems.",
     url: "https://github.com/RazorfishGermany/es6-module-isMobileOs",
     source: "https://raw.githubusercontent.com/RazorfishGermany/es6-module-isMobileOs/master/dist/main.js"
+  },
+  {
+    name: "DOMatic",
+    github: "danristea/DOMatic",
+    tags: ["JsonML", "MVC", "diff", "DOM", "vtree", "components"],
+    description: "Lightweight client-side MVC framework that uses JsonML syntax and virtual DOM diffing with minimal hard syntax.",
+    url: "https://github.com/danristea/DOMatic",
+    source: "https://raw.githubusercontent.com/danristea/DOMatic/master/DOMatic.js"
   }
 ];
